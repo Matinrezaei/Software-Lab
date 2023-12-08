@@ -1,7 +1,7 @@
 # RELEASE NOTES: #
 
 ## v1.5.1 -- May 2023 ##
-
+matinnnnnnn
 * Remove ranInfo field in n2infocontainer
 * Fix encoding NAS header
 * Resolved QoS Flow info missing in N2 Handover Preparation
