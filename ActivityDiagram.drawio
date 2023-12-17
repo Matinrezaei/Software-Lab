@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T16:26:20.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="b70d-yF7m1i7gXs_IwNm" version="22.1.11" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-12-17T16:26:28.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="oqndyq5G0H4Mf_XNBwQE" version="22.1.11" type="github" pages="19">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
@@ -579,6 +579,9 @@
         </mxCell>
         <mxCell id="SbawjOaqeIdmIskxYOFH-1" value="انتخاب پزشک مورد نظر" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="363.12" y="328" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAr6naG9dqqdf6O7NM8n-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbawjOaqeIdmIskxYOFH-2" target="fAr6naG9dqqdf6O7NM8n-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SbawjOaqeIdmIskxYOFH-2" value="مشاهده پروفایل پزشک" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="232" y="563" width="120" height="60" as="geometry" />
