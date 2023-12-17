@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T19:57:41.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ZwpE-OuTMuX_euuXzDRi" version="22.1.11" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-12-17T20:26:58.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="bw8iOFVMysiKnQndV7Li" version="22.1.11" type="github" pages="20">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
@@ -1638,7 +1638,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DtYyJQeYXELRa5RA4pPk" name="فراموشی رمز عبور">
-    <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1680,12 +1680,22 @@
         <mxCell id="suktJSA-LzmUmw92WYUD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suktJSA-LzmUmw92WYUD-1" target="suktJSA-LzmUmw92WYUD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="suktJSA-LzmUmw92WYUD-19" value="قبول" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="suktJSA-LzmUmw92WYUD-3">
+          <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="suktJSA-LzmUmw92WYUD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suktJSA-LzmUmw92WYUD-1" target="XZ3rMVsH5X6rX2ulLaPv-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="552" y="492" />
               <mxPoint x="552" y="250" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suktJSA-LzmUmw92WYUD-18" value="رد" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="suktJSA-LzmUmw92WYUD-17">
+          <mxGeometry x="-0.0127" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="suktJSA-LzmUmw92WYUD-1" value="تطابق ایمیل و نام کاربری" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
