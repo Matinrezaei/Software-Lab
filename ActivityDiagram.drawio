@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T16:22:47.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="vVWZ0c9W1T2fL_LTBMSP" version="22.1.11" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-12-17T16:23:36.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="G3cC3zqGNUpx41zCsA1D" version="22.1.11" type="github" pages="19">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
@@ -577,17 +577,11 @@
         <mxCell id="GOk-pDdKcaSjYP1GK6xx-4" value="عملیات پرداخت" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="338.62" y="1256" width="169" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SbawjOaqeIdmIskxYOFH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SbawjOaqeIdmIskxYOFH-1" target="SbawjOaqeIdmIskxYOFH-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SbawjOaqeIdmIskxYOFH-1" value="انتخاب پزشک مورد نظر" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="363.12" y="328" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SbawjOaqeIdmIskxYOFH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SbawjOaqeIdmIskxYOFH-2" target="SbawjOaqeIdmIskxYOFH-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SbawjOaqeIdmIskxYOFH-2" value="مشاهده پروفایل پزشک" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="363.12" y="442" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pzfA35xurzkpmY8hOpp9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SbawjOaqeIdmIskxYOFH-3" target="pzfA35xurzkpmY8hOpp9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
