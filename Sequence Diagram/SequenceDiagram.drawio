@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T16:24:51.480Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="uAFalU_8g9eXxv44Wj7E" version="22.1.16" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-12-29T16:24:59.739Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="UyHdbxPH6RJC42HPZdu7" version="22.1.16" type="github" pages="20">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="1434" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
@@ -15,9 +15,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-PPTS48ZXH5jQsiLlJTE-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="408.12" y="18" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JATJTO45TWQIetT0YQGL-1" value="&lt;font style=&quot;font-size: 30px;&quot; color=&quot;#ff2e9d&quot; face=&quot;Tahoma&quot;&gt;پیشنهاد برای پادکست&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="24" y="30" width="297" height="48" as="geometry" />
         </mxCell>
