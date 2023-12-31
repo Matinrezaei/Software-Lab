@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T09:19:11.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="KTpVGpRmiLWAjrBLyzfT" version="22.1.16" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-12-31T09:21:39.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="VSUIUTgkuGJ6HBX-eCaN" version="22.1.16" type="github" pages="20">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="1">
       <root>
@@ -163,7 +163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ثبت‌نام" id="GEQRo5h9ixli0StdwVT6">
-    <mxGraphModel dx="1147" dy="656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,8 +270,8 @@
         <mxCell id="FWSVJJncIZ_kS6vJ8xDO-25" value="Request Patient info()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="194" y="404" width="137" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iIFi76MNSJxW0yInFdwC-25" value="Create(User info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="430" width="113" height="26" as="geometry" />
+        <mxCell id="iIFi76MNSJxW0yInFdwC-25" value="Create(Patient info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="430" width="124" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iIFi76MNSJxW0yInFdwC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FWSVJJncIZ_kS6vJ8xDO-13" target="iIFi76MNSJxW0yInFdwC-26">
           <mxGeometry relative="1" as="geometry">
@@ -297,8 +297,8 @@
         <mxCell id="iIFi76MNSJxW0yInFdwC-29" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="422" width="10" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="iIFi76MNSJxW0yInFdwC-31" value="initialize Parent(User info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520.5" y="432" width="159" height="26" as="geometry" />
+        <mxCell id="iIFi76MNSJxW0yInFdwC-31" value="initialize Parent(Patient info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515.5" y="432" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iIFi76MNSJxW0yInFdwC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iIFi76MNSJxW0yInFdwC-41">
           <mxGeometry relative="1" as="geometry">
@@ -544,8 +544,8 @@
         <mxCell id="iIFi76MNSJxW0yInFdwC-86" value="Request User info()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="194" y="1400" width="126" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iIFi76MNSJxW0yInFdwC-87" value="Create(User info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1426" width="113" height="26" as="geometry" />
+        <mxCell id="iIFi76MNSJxW0yInFdwC-87" value="Create(Paramedic info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1426" width="146" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iIFi76MNSJxW0yInFdwC-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iIFi76MNSJxW0yInFdwC-80" target="iIFi76MNSJxW0yInFdwC-90">
           <mxGeometry relative="1" as="geometry">
@@ -571,8 +571,8 @@
         <mxCell id="iIFi76MNSJxW0yInFdwC-92" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="694.5" y="1418" width="10" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="iIFi76MNSJxW0yInFdwC-93" value="initialize Parent(User info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="1428" width="159" height="26" as="geometry" />
+        <mxCell id="iIFi76MNSJxW0yInFdwC-93" value="initialize Parent(Paramedic info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="499.5" y="1428" width="192" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iIFi76MNSJxW0yInFdwC-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="iIFi76MNSJxW0yInFdwC-51" target="iIFi76MNSJxW0yInFdwC-95">
           <mxGeometry relative="1" as="geometry">
