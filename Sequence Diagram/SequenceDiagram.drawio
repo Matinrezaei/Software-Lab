@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T23:17:45.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="1oC0mmbfWob7o1NJixt1" version="22.1.16" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-01-10T16:11:51.145Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="QMFVEhp-zeKeN8fkw9Zj" version="22.1.17" type="github" pages="20">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="1">
       <root>
@@ -22,44 +22,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vHkUNZTKIWTCjWEhAPmg" name="مشاهده مجله">
-    <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1434" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ykVEajZ85HmUvy7bVwkM-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="398.12" y="20" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ykVEajZ85HmUvy7bVwkM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ykVEajZ85HmUvy7bVwkM-3" target="ykVEajZ85HmUvy7bVwkM-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ykVEajZ85HmUvy7bVwkM-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="398.12" y="20" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ykVEajZ85HmUvy7bVwkM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ykVEajZ85HmUvy7bVwkM-5" target="ykVEajZ85HmUvy7bVwkM-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ykVEajZ85HmUvy7bVwkM-5" value="انتخاب گزینه مجلات هفتگی" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="353.12" y="105" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ykVEajZ85HmUvy7bVwkM-6" value="مشاهده مشاهده اخرین مجله هفتگی" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="353.12" y="214" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6HGDcnAOjzogvF6U0O8i-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="6HGDcnAOjzogvF6U0O8i-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413" y="274" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6HGDcnAOjzogvF6U0O8i-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="398.12" y="323" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fpzTKFWr6JW0lUIrKDGI-1" value="&lt;font style=&quot;font-size: 30px;&quot; color=&quot;#ff2e9d&quot; face=&quot;Tahoma&quot;&gt;مشاهده مجله&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fpzTKFWr6JW0lUIrKDGI-1" value="&lt;font style=&quot;font-size: 30px;&quot; color=&quot;#ff2e9d&quot; face=&quot;Tahoma&quot;&gt;مشاهده مجله&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="73" y="30" width="198" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="z7CmttYCGPX6qLOfJtiS" name="پیشنهاد برای مجله">
-    <mxGraphModel dx="1434" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1434" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,15 +76,15 @@
         <mxCell id="HCEs0SlgZdrvUm9B_2CB-13" value="ثبت پیشنهاد" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="363.12" y="672" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aRDxFZEIfJclHrrEeHYm-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="aRDxFZEIfJclHrrEeHYm-2">
+        <mxCell id="aRDxFZEIfJclHrrEeHYm-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="aRDxFZEIfJclHrrEeHYm-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="422.88" y="735" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRDxFZEIfJclHrrEeHYm-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="aRDxFZEIfJclHrrEeHYm-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="408" y="784" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8EQHPhAQM4INeX-TKSvF-1" value="&lt;font style=&quot;font-size: 30px;&quot; color=&quot;#ff2e9d&quot; face=&quot;Tahoma&quot;&gt;پیشنهاد برای مجله&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="8EQHPhAQM4INeX-TKSvF-1" value="&lt;font style=&quot;font-size: 30px;&quot; color=&quot;#ff2e9d&quot; face=&quot;Tahoma&quot;&gt;پیشنهاد برای مجله&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="45" y="30" width="255" height="48" as="geometry" />
         </mxCell>
       </root>
@@ -163,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ثبت‌نام" id="GEQRo5h9ixli0StdwVT6">
-    <mxGraphModel dx="1886" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
