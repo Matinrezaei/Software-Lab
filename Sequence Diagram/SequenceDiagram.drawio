@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T12:33:11.735Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="AhkbDsfPSNcLokNsuXW8" version="22.1.18" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-01-12T12:38:09.881Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="M58RN6tcSEXYMWAZk5pV" version="22.1.18" type="github" pages="20">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="1434" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="1">
       <root>
@@ -1443,17 +1443,6 @@
             <mxPoint x="176" y="302" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtyE02PFqQl85GRU2ZzG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="346.5" y="507.25" as="sourcePoint" />
-            <mxPoint x="181" y="507.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RtyE02PFqQl85GRU2ZzG-35" value="Appointment info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RtyE02PFqQl85GRU2ZzG-34">
-          <mxGeometry x="0.0312" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RtyE02PFqQl85GRU2ZzG-36" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="170" y="332" width="11" height="232.5" as="geometry" />
         </mxCell>
@@ -1515,25 +1504,17 @@
             <mxPoint x="707.5" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtyE02PFqQl85GRU2ZzG-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="357.8571428571429" y="508" as="targetPoint" />
-            <mxPoint x="702" y="508.02857142857135" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RtyE02PFqQl85GRU2ZzG-51" value="Appointment info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RtyE02PFqQl85GRU2ZzG-50">
-          <mxGeometry x="0.0004" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RtyE02PFqQl85GRU2ZzG-52" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="702" y="428" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtyE02PFqQl85GRU2ZzG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RtyE02PFqQl85GRU2ZzG-39" target="RtyE02PFqQl85GRU2ZzG-52">
+        <mxCell id="RtyE02PFqQl85GRU2ZzG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="631" y="498" />
+              <mxPoint x="489" y="466" />
+              <mxPoint x="489" y="466" />
             </Array>
+            <mxPoint x="357.5" y="466.02857142857135" as="sourcePoint" />
+            <mxPoint x="701.8799999999999" y="466.30000000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RtyE02PFqQl85GRU2ZzG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -1559,6 +1540,9 @@
         </mxCell>
         <mxCell id="RtyE02PFqQl85GRU2ZzG-58" value="Request information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="202" y="402" width="125" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RtyE02PFqQl85GRU2ZzG-59" value="Create Validation(information)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="449" y="445" width="176" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
