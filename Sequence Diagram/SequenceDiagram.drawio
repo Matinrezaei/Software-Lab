@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T16:05:01.494Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MSEKU-xhIH0KVr3NitO8" version="22.1.18" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-01-12T16:05:33.200Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="fa10KuadaLCRBYR0O6zJ" version="22.1.18" type="github" pages="20">
   <diagram id="IU4QbEFLuFTPxfrVKN8U" name="مشاهده‌ پادکست‌ها">
     <mxGraphModel dx="819" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="1">
       <root>
@@ -44,20 +44,11 @@
             <mxPoint x="345" y="276" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zNHOcOi6uRbj1JNfOXnp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="339.5" y="382.25" as="sourcePoint" />
-            <mxPoint x="174" y="382.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zNHOcOi6uRbj1JNfOXnp-14" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="339.5" y="306" width="11" height="232.5" as="geometry" />
         </mxCell>
         <mxCell id="zNHOcOi6uRbj1JNfOXnp-17" value="Request View Podcasts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="186" y="318" width="144" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zNHOcOi6uRbj1JNfOXnp-18" value="Request email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="211" y="359" width="94" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
