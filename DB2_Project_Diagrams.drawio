@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T18:41:15.967Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="H2V6y-6harEmKDNmmqYP" version="24.4.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-11T18:43:30.469Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="qm44tYpcHtI0SUZU9C8Q" version="24.4.14" type="github" pages="2">
   <diagram id="QYXTYVGNZOt3z-AaoI5p" name="ER-Diagram">
     <mxGraphModel dx="2607" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -2753,7 +2753,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Star-Diagram" id="J4C6GXzWt4kuPHxqxbmp">
-    <mxGraphModel dx="4026" dy="4267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="7119" dy="6040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
