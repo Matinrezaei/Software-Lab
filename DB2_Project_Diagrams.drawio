@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T19:45:12.797Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="a3RKiNv-LMD99B2DI3Tz" version="24.4.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-11T19:46:26.640Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="xPfJjH38BMh4cUTiLxXk" version="24.4.14" type="github" pages="2">
   <diagram id="QYXTYVGNZOt3z-AaoI5p" name="ER-Diagram">
-    <mxGraphModel dx="3585" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2305,7 +2305,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9uk07SSZCnjDYhqBX9W-7" value="PlayerGame" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="s9uk07SSZCnjDYhqBX9W-7" value="PlayerSet" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="177" y="766" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="s9uk07SSZCnjDYhqBX9W-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="s9uk07SSZCnjDYhqBX9W-7">
@@ -2494,7 +2494,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vCZenYn8maK-stdHMNjy-1" value="CardGame" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="vCZenYn8maK-stdHMNjy-1" value="CardSet" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="177" y="1010" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vCZenYn8maK-stdHMNjy-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="vCZenYn8maK-stdHMNjy-1">
